@@ -13,8 +13,8 @@ Install XAMPP
 
 # Run App
 
-    Import the fitbit.sql and foodify.sql files to database name fitbitapi and foodify respectively in phpmyadmin.
-    Rename the foodify-master folder to foodify.
+    Import the fitbit.sql and foodit.sql files to database name fitbitapi and foodit respectively in phpmyadmin.
+    Rename the foodit-master folder to foodit.
     Move the folder to xampp/htdocs.
     In browser goto URL and type http://localhost/foodit .
 
